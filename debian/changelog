@@ -1,4 +1,4 @@
-on-taskgraph (2.143.0) UNRELEASED; urgency=low
+on-taskgraph (2.144.0) UNRELEASED; urgency=low
 
   * Initial release
   * release 1.0.0
@@ -151,5 +151,6 @@ on-taskgraph (2.143.0) UNRELEASED; urgency=low
   * release 2.141.0
   * release 2.142.0
   * release 2.143.0
+  * release 2.144.0
 
- -- rackhd <rackhd@emc.com>  Tue, 06 Mar 2018 08:55:33 +0000
+ -- rackhd <rackhd@emc.com>  Tue, 06 Mar 2018 10:56:04 +0000
